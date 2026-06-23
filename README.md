@@ -37,7 +37,7 @@ Work with Web3 technologies and integrate blockchain functionality into a decent
 
 ## 📤 Submission
 
-Once completed, submit one of the following:
+Once completed, submit the deliverables in the following three forms:
 
 - **short video** recording your work.
 - **screenshots** showing the API call and console result.
